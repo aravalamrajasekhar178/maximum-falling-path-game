@@ -1,0 +1,37 @@
+body{
+  margin:0px;
+  height:100%;
+  width:100%;
+  background-image: url(img3.jpg);
+}
+#rule_btn1,#rule_btn2{
+  margin-left: 15px;
+  height : 40px;
+  width: 250px;
+  font-weight:bolder;
+  font-size: 15px;
+}
+#btn10,#btn11,#btn12,#btn13,#btn14,#btn20,#btn21,#btn22,#btn23,#btn24,#btn30,#btn31,#btn32,#btn33,#btn34,#btn40,#btn41,#btn42,#btn43,#btn44{
+  height:80px;
+  width:70px;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: yellow;
+  color: red;
+}
+#btn00,#btn01,#btn02,#btn03,#btn04{
+  height:80px;
+  width:70px;
+  font-size: 40px;
+  font-weight: bolder;
+  background-color: magenta;
+  color: white;
+}
+ul li{
+  font-weight:bolder;
+  color:blue;
+}
+#flex{
+  display: flex;
+  flex-direction: row;
+}
